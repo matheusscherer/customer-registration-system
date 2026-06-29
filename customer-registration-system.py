@@ -1,4 +1,4 @@
-# customer_registration.py
+# customer_registration_automation.py
 # Automação do processo de Cadastro de Cliente
 # Projeto: Automação Inteligente para Negócios — Senac Tech Porto Alegre RS
 # Autor: Matheus Scherer | LinkedIn scherermatheus
